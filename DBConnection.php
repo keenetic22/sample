@@ -5,7 +5,7 @@
 class DBConnection {
 
     /**
-     * Переменная подключеня к базе данных
+     * Переменная подключения к базе данных
      */
     private static $_connection;
 
